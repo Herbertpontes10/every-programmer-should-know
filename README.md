@@ -244,3 +244,210 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [InterviewCake](https://www.interviewcake.com/)
 - :link: [At Coder](https://atcoder.jp/)
 - :link: [Codility](https://www.codility.com/)
+
+
+----------------------------------------TRADUÇÃO----------------------------------
+
+Todo programador deveria saber 🤔
+Uma coleção de coisas (principalmente) técnicas que todo desenvolvedor de software deve saber.
+
+☝️ Esses são recursos que posso recomendar a todos os programadores, independentemente de seu nível de habilidade ou pilha de tecnologia
+
+Altamente opinativo 💣. Não apoiado pela ciência. Não vem em nenhuma ordem específica ♻️
+
+Tu gostas? ⭐ e compartilhe com um desenvolvedor amigável! Você não gosta disso? Cuidado com o doguinho 🐶
+
+P.S. Você não precisa saber tudo isso de cor para ser um programador. Mas conhecer as coisas vai ajudá-lo a se tornar melhor! 💪
+
+P.P.S. Contribuições são bem-vindas!
+
+Introdução
+🎥 Mapa da Ciência da Computação
+🎥 40 principais conceitos de ciência da computação explicados em termos leigos
+Falsidades
+Falsidades Incríveis 💊 Lista com curadoria de falsidades em que os programadores acreditam. Verifique coisas que você não sabe sobre Strings, Endereços, Nomes, Números, E-mails, Fusos Horários e Datas e muito mais.
+Algoritmos
+Folha de dicas do Big O
+📖 Algoritmos de Grokking
+Visualização de algoritmos
+Estruturas de dados
+🎥 UC Berkeley, Curso de Estruturas de Dados
+Fundamentos de Estruturas de Dados - EDX
+Estruturas de dados - Coursera
+Matemática para Ciência da Computação - Eric Lehman
+Números
+📖 Como contar
+📄 Guia de ponto flutuante
+📄 O que todo cientista da computação deve saber sobre aritmética de ponto flutuante
+📄 Teoria básica dos números que todo programador deveria conhecer...
+Cordas
+📄 Unicode e conjuntos de caracteres
+Homoglifos
+Repositório de dados de localidade comum Unicode
+🎥 ASCII
+🎥 UTF-8
+Latência
+Infográficos interativos de latência
+📄 Números de latência que todo programador deve saber
+Tempo
+📄 Algumas notas sobre o tempo
+🎥 O problema com fusos horários
+Memória
+📄 O que todo programador deve saber sobre memória
+Sistemas distribuídos
+📖 Projetando aplicativos com uso intensivo de dados
+📜 Projetos, lições e conselhos da construção de grandes sistemas distribuídos
+📜 Horas, Relógios e Ordenação de Eventos em um Sistema Distribuído
+📄 Não há agora
+📄 Jepsen: como diferentes bancos de dados se comportam sob partição
+📜 Falácias da computação distribuída explicadas
+RegExp
+RegexHQ
+Aprenda regex de maneira fácil
+Segurança
+📖 Programação de segurança
+📄 Rolando sua própria criptomoeda
+📄 Respostas Certas Criptográficas
+📄 Uma Carta Aberta aos Desenvolvedores em Todos os Lugares (Sobre Criptografia)
+📖 Fundamentos de segurança: o que todo programador precisa saber
+Top 10 OWASP
+Explorações e defesas de aplicativos da Web
+📄 Hashing, criptografia e codificação
+UX/Usabilidade
+📖 Não me faça pensar: uma abordagem de bom senso para usabilidade na web
+🎥 Inventando no Princípio
+SEO
+📄 O que todo programador deve saber sobre SEO
+Arquitetura
+📜 Um Guia de Campo para Boxologia
+📜 Fora do poço de alcatrão
+📜 No Silver Bullet — Essência e Acidentes da Engenharia de Software
+🎥 Cultivando um idioma
+🎥 CQRS e Fornecimento de Eventos
+📖 Design Orientado a Objetos Prático em Ruby
+🎥 Arquiteturas de software evolutivas
+Projeto do sistema: uma cartilha
+📄 Como o JavaScript funciona: parte 1, 2, 3, 4
+🎥 Arquitetura de Entidade-Componente-Sistema com Unity por exemplo
+Filosofia de Engenharia
+🎥 Teoria das Categorias na Vida
+🎥 Simples Feito Fácil
+📄 Velocidade no Desenvolvimento de Software
+🎥 #SemEstimativas
+🎥 O Mito do Programador Gênio
+🎥 Fazendo desenvolvedores fodões
+📄 As dez regras de um programador Zen
+📄 O mítico programador 10x
+📄 A mentalidade de depuração
+🎥 O Futuro da Programação
+📄 O Bom Manifesto de Desenvolvimento de Software
+🎥 Todas as pequenas coisas
+Práticas
+📖 Trabalhando de forma eficaz com código legado
+📖 Código Completo
+📖 Código Limpo: Um Manual de Artesanato de Software Ágil
+📖 Desenvolvimento Orientado a Testes: Por Exemplo
+✅ Lista de verificação de produção
+📖 Solte!
+📖 Guia Principalmente Adequado do Professor Frisby para Programação Funcional
+📖 SICP: Estrutura e Interpretação de Programas de Computador
+📄 Treze maneiras de olhar para uma tartaruga
+📜 Paradigmas de programação para leigos: o que todo programador deve saber
+Aprenda X em Y Minutos Aprenda o básico de um idioma de forma altamente condensada.
+Hiperpoliglota Comparar recursos comumente usados ​​de idiomas mais ou menos semelhantes lado a lado. Ajuda você a pular Python<->Ruby, Ocaml<->Haskell, etc.
+📄 Pomodoro para programadores
+📖 Engenharia de Confiabilidade do Site
+Carreira
+💰 Níveis FYI
+Estatísticas salariais para várias empresas de tecnologia. Melhor que o Glassdoor.
+📄 10 coisas que todo programador deve saber para seu primeiro emprego
+📄 Quanto os engenheiros de software realmente ganham em cada cidade?
+📄 Cargo de Engenheiros de Software em São Francisco
+Engenharia de Software 101
+📖 O programador apaixonado
+📖 Soft Skills: o manual de vida do desenvolvedor de software
+📖 O Guia Completo da Carreira do Desenvolvedor de Software
+📖 Programação além das práticas: seja mais do que apenas um macaco de código
+Uma lista de investidores europeus
+📄 Dez regras para negociar uma oferta de emprego
+📄 Como entrevistar como candidato a desenvolvedor
+📄 Como conseguir um emprego de tecnologia no exterior mais rápido
+📖 Como ser um engenheiro STAR
+📄 TL;DR; Opções de ações
+📄 Equity 101 para funcionários de startups
+📖 Decifrando a entrevista de codificação: 189 perguntas e soluções de programação
+🔥 Tudo o que você precisa saber para conseguir o emprego
+📖 Manual de entrevista técnica
+📄 Aprenda a programar você mesmo em dez anos
+📄 O que você deve saber como fundador de uma empresa de software
+🎥 Perguntas de preparação e programação para entrevista de código | carrinho de bebê
+Ajuste seu currículo
+🔨 Compilador de CV
+Código aberto
+🌐 Aprenda a usar
+Git e GitHub
+Trabalho remoto
+🌐 Remotive.io: Startups contratando remotamente
+🌐 Lista de trabalho remoto para desenvolvedores
+⚡ Lista de Nômades
+📖 O melhor guia para trabalho remoto
+🏠 Trabalho remoto incrível
+Solução de problemas
+📖 A arte e o ofício da resolução de problemas
+📖 Como resolver: um novo aspecto do método matemático
+Habilidades interpessoais
+📖 Conversas difíceis
+📖 Conversas cruciais
+📖 Como Fazer Amigos e Influenciar Pessoas
+Saúde mental
+Saúde Mental Incrível
+Uma lista com curadoria de artigos, sites e recursos incríveis sobre saúde mental na indústria de software.
+Artigos sobre programação
+❤️ Papéis que amamos
+📰 O jornal da manhã
+📜 O que todo programador deve saber sobre memória
+📜 Ir para Declaração Considerada Prejudicial
+Livros gratuitos sobre programação
+📚 Livros de programação gratuitos
+Serviços ⚡
+🤖 APIs abstratas
+Gratuito para desenvolvedores
+APIs públicas
+O Projeto Substantivo
+Sem Codificação
+Ícones simples
+Aprenda qualquer coisa
+rep.it
+Licenças
+Escolha uma licença de código aberto
+Licenças de software bem explicadas na versão TLDR
+Como funcionam as licenças de código aberto e como adicioná-las aos seus projetos
+Onde procurar mais informações
+Guia freeCodeCamp
+GeeksForGeeks
+Dev.Para
+Estouro de pilha
+Dzone
+Sites de prática de codificação ⚡
+🔗 CodeForces
+🔗 CodeChef
+🔗 Coderbyte
+🔗CodinGame
+🔗 Academia Cs
+🔗 Hacker Rank
+🔗 Spoj
+🔗 Hacker Earth
+🔗 TopCoder
+🔗 Guerras de código
+🔗 Exercício
+🔗 CodeSignal
+🔗 Projeto Euler
+🔗 LeetCode
+🔗 Firecode.io
+🔗 EntrevistaBit
+🔗 uCoder
+🔗 LintCode
+🔗 CodeCombat
+🔗 EntrevistaBolo
+🔗 Na Coder
+🔗 Codilidade
