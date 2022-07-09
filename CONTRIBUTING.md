@@ -84,3 +84,29 @@ It is just easier to discuss and decide on a resource within a Pull Request.
 
 </p></details>
 
+---------------------TRADUÇÃO------------------------
+
+O objetivo
+Nosso objetivo não é ter a maior lista de coisas. Nosso objetivo é ter uma lista compreensível das coisas mais valiosas que qualquer programador deve saber.
+
+Contribuindo
+Suas contribuições para este repositório são sempre bem-vindas! Tenha em mente que este repositório é altamente opinativo e com curadoria. Sua opinião sobre o valor de qualquer recurso pode não corresponder à opinião do curador.
+
+Nenhum PR será descartado sem explicações!
+
+Valores fundamentais
+Os valores são clicáveis
+
+Menos é mais! 💪
+Nós ❤️ conhecimento/habilidades amplamente aplicáveis.
+Não adicionamos ao nível de estresse/hype ⚡
+A tecnologia é sempre sobre seres humanos 👨‍👩‍👶.
+Diretrizes
+As diretrizes são clicáveis
+
+Não adicione coisas que você não avaliou pessoalmente!
+Use o raciocínio baseado em nossos valores.
+Um item por Pull Request.
+Não abra problemas com recursos, crie um Pull Request!
+Use um conjunto consistente de emoji de tipo de recurso
+
